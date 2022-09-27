@@ -14,7 +14,7 @@ Make sure to disable the browser cache to avoid issues with caching the JavaScri
 
 ### A. Canvas and JavaScript
 
-1. Open [html/canvas.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022/blob/master/lab-1/html/canvas.html) file in your web browser (chrome/firefox/ie).
+1. Open [html/canvas.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022-Lab-1/blob/main/html/canvas.html) file in your web browser (chrome/firefox/ie).
 2. Open the `html/canvas.html` file with your text editor.
 
 #### Drawing in Canvas (step-by-step) with JavaScript
@@ -83,7 +83,7 @@ Tip: The below source code will be inserted between "<script></script>" element.
     ```
 ### B. SVG and JavaScript
 
-1. Open [html/svg.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022/blob/master/lab-1/html/svg.html) in browser (chrome/firefox/ie).
+1. Open [html/svg.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022-Lab-1/blob/main/html/svg.html) in browser (chrome/firefox/ie).
 2. Open `html/svg.html` with your text editor.
 
 #### Practice Examples
@@ -94,7 +94,7 @@ Tip: The below source code will be inserted between "<script></script>" element.
 
 ### C. To Do Questions
 
-1. Open [html/ToDo.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022/blob/master/lab-1/html/ToDo.html) the file in your web browser (chrome/firefox/ie).
+1. Open [html/ToDo.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022-Lab-1/blob/main/html/ToDo.html) the file in your web browser (chrome/firefox/ie).
 2. Open `js/ball.js` with your text editor.
 
 #### Canvas and JavaScript
@@ -148,7 +148,6 @@ _Animation_
 The Submission Link is available under ASSESMENT INFORMATION Section of Module Page.
 
 ### General Instruction:
-Assignments must be submitted in a .zip package or alike ( .7z .bdoc .cdoc .ddoc .gtar .tgz .gz .gzip .hqx .rar .sit .tar .zip). Code submitted in other formats will not be accepted. Corrupt or otherwise unreadable files will not be accepted.
 - Assignments must be submitted in a .zip package or alike ( .7z .bdoc .cdoc .ddoc .gtar .tgz .gz .gzip .hqx .rar .sit .tar .zip). Code submitted in other formats will not be accepted. Corrupt or otherwise unreadable files will not be accepted.
 - Make sure to compress/zip the whole folder `ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022-Lab-1-main` so all your work is included in the submission.
 - Rename the compressed/zipped folder using your full name e.g.: `Giussepi Lopez.zip`
