@@ -43,10 +43,6 @@ window.addEventListener('load', function() {
 
 
     // TODO: Question 3
-    // initial directions (you can or cannot use these variables)
-    let xDirection = 'right';
-    let yDirection = 'down';
-
     const moveInsideCanvas = function() {
 	// write some code here based on horizontalMove and verticalMove functions
     };
